@@ -6,3 +6,4 @@ Bu program, mevcut Fortnite sezonunun bitiş tarihine ne kadar kaldığını gü
 - `packages.bat` adlı dosyayı çalıştırarak gerekli modülleri yükleyin.
 - `start.bat` adlı dosyayı çalıştırarak programı başlatın
 - Program çalıştıktan sonra resimler `/outputs` klasöründe olacak.
+- Not: [background.psd](assets/background.psd) ile sezonun adını değiştirip, eski olan [background.png](assets/background.png) ile değiştirebilirsiniz.
