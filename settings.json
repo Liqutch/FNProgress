@@ -1,5 +1,5 @@
 {
-  "auto_mode": false,
+  "auto_mode": true,
   "seasonBegin": "2023-03-09T12:00:00Z",
   "seasonEnd": "2023-06-2T12:00:00Z"
 }
