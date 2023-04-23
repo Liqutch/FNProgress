@@ -1,5 +1,5 @@
 # Fortnite Sezon İlerlemesi
-Bu program, mevcut Fortnite sezonunun bitiş tarihine ne kadar kaldığını günüyle, yüzdesiyle hesaplar ve size bu ilerlemeyi resim olarak çıkartır. Arkaplan görüntüsü [@FNProgress](https://twitter.com/FNProgress) tarafından alınmış ve değiştirilmiştir.
+Bu program, mevcut Fortnite sezonunun bitiş tarihine ne kadar kaldığını günüyle, yüzdesiyle hesaplar ve size bu ilerlemeyi resim olarak çıkartır.
 
 # Nasıl Kullanılır:
 - [Python](https://www.python.org/downloads/) 3.6 ve üstü bir sürümün yüklü ve PATH'e eklenmiş olduğundan emin olun.
