@@ -7,7 +7,7 @@ Bu program, mevcut Fortnite sezonunun bitiş tarihine ne kadar kaldığını gü
 - `start.bat` adlı dosyayı çalıştırarak programı başlatın
 - Program çalıştıktan sonra resimler `/outputs` klasöründe olacak.
 # Yapılandırma:
-- Sezonun başlangıç ve bitiş tarihlerini otomatik olarak tespit etmek için `"auto_mode": true` olarak ayarlanmıştır. Eğer manuel olarak tarihleri girmek isterseniz `settings.json` adlı dosyayı açın ve başlangıç ve bitiş tarihlerini yazın. Not: Sezon bittiğinde yeni sezonun tarihlerini girmeyi unutmayın.
+- Sezonun başlangıç ve bitiş tarihlerini otomatik olarak tespit etmek için `"auto_mode": true` olarak ayarlanmıştır. Eğer manuel olarak tarihleri girmek isterseniz `settings.json` adlı dosyayı açın, değeri false olarak ayarlayın ve başlangıç ve bitiş tarihlerini yazın. Not: Sezon bittiğinde yeni sezonun tarihlerini girmeyi unutmayın.
 - Not: [background.psd](assets/background.psd) ile sezonun adını güncelleyip, eski olan [background.png](assets/background.png) ile değiştirebilirsiniz.
 
 # Destek
