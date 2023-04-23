@@ -9,7 +9,14 @@ Bu program, mevcut Fortnite sezonunun bitiş tarihine ne kadar kaldığını gü
 # Yapılandırma:
 - Sezonun başlangıç ve bitiş tarihlerini otomatik olarak tespit etmek için `"auto_mode": true` olarak ayarlanmıştır. Eğer manuel olarak tarihleri girmek isterseniz `settings.json` adlı dosyayı açın, değeri false olarak ayarlayın ve başlangıç ve bitiş tarihlerini yazın. Not: Sezon bittiğinde yeni sezonun tarihlerini girmeyi unutmayın.
 - Not: [background.psd](assets/background.psd) ile sezonun adını güncelleyip, eski olan [background.png](assets/background.png) ile değiştirebilirsiniz.
-
+## Örnek
+```json
+{
+  "auto_mode": true,
+  "seasonBegin": "2023-03-09T12:00:00Z",
+  "seasonEnd": "2023-06-2T12:00:00Z"
+}
+```
 # Destek
 Eğer bir problemle karşılaşıyorsanız, aşağıdaki bağlantılardan yardım alabilirsiniz.
 
